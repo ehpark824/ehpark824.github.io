@@ -6,7 +6,7 @@
 # Site
 title: Eunhye's
 subtitle: 늙어도 코딩하기
-description:
+description: 얘는 어디에 나올까나?
 author: Eunhye Park
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -118,8 +118,8 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
   about: /about/
+  categories: /categories/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/myphoto.jpg
 
 
 # Table Of Contents in the Sidebar
