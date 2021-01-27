@@ -9,3 +9,7 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 /vendor
+Gemfile
+Gemfile.lock
+
+_sample_md/*
