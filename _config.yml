@@ -5,7 +5,7 @@
 
 # Site
 title: Eunhye's
-subtitle: 늙어도 코딩하기
+subtitle: 늙어서도 코딩하기
 description: 코딩으로 노후대비하는 개발자 #side bar dscription
 author: Eunhye Park
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyll, NexT, ppp"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -90,7 +90,7 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: keyboard-o
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -151,8 +151,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
@@ -241,7 +241,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
@@ -380,8 +380,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: ehpark824
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
